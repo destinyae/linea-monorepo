@@ -1,4 +1,4 @@
-# L1 Dynamic gas pricing mechainsm
+# L1 Dynamic gas pricing mechanism
 
 
 ## Objective
